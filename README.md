@@ -1,2 +1,2 @@
-# INFSCI2415-Information-Visualization
+# INFSCI2415_Information_Visualization
 
